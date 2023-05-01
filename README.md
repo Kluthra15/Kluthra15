@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Kluthra15
-- 👀 I’m interested in learning about data analytics, data science, and the world of machine learning and AI. 
+## Hi 👋 I'm Kushagra! I'm a Sr. Product Data Analyst at Skip The Dishes with a deep curiousity in all things Machine Learning and AI. 
 - 🌱 I’m currently learning data science through a mentorship. I will use the skills i obtain to land a job working as a Data Scientist. 
 
 <!---
